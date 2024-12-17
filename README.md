@@ -28,4 +28,5 @@ pkg install git
 python blum.py
 ```
 
-**TUTORIAL AVAILABLE ON MY YT**
+**TUTORIAL AVAILABLE ON MY YT** 
+go to youtube Search= Jockey Earning
