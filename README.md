@@ -13,6 +13,10 @@ pkg install python rust git -y
 ```
 pkg install git
 ```
+```bash
+   pip install cloudscraper
+   ```
+
    ```bash
    git clone https://github.com/Not-D4rkCipherX/blum.git
    ```
