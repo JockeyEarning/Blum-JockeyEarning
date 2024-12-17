@@ -18,7 +18,7 @@ pkg install git
    ```
 
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/blum.git
+   git clone https://github.com/JockeyEarning/Blum-JockeyEarning.git
    ```
    ```bash
    cd blum
